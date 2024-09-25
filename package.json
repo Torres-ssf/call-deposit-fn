@@ -1,0 +1,23 @@
+{
+  "name": "call-deposit-fn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run --coverage --config vitest.config.mts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "fuels": "^0.94.6"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.1",
+    "typescript": "^5.6.2",
+    "vite": "^5.4.8",
+    "vitest": "^2.1.1"
+  }
+}
